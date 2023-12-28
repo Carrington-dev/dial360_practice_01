@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dial360</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="submit">Submit</string>
+    <string name="country_code_picker">Country Code Picker</string>
+    <string name="_phone">0677352242</string>
+    <string name="otp_default">490168</string>
+</resources>
